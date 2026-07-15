@@ -83,21 +83,3 @@ flutter run
 ## Autor
 
 Axel Joshep Ibarra Grimaldo
-
-## Comando para actualizarlo en Git
-
-Si solo quieres subir este cambio del README:
-
-```bash
-git add README.md
-git commit -m "Update README"
-git push origin main
-```
-
-Si quieres subir todos los cambios del proyecto:
-
-```bash
-git add .
-git commit -m "Update project"
-git push origin main
-```
