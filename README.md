@@ -10,7 +10,7 @@ Programacion movil
 
 ## Grupo
 
-[Escribe aqui tu grupo]
+ITI-23
 
 ## Descripcion breve
 
